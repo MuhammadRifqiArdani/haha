@@ -145,9 +145,9 @@
                             class="p-4 border border-gray-200 dark:bg-gray-800  dark:border-gray-700 rounded-full duration-300 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-600/20 dark:hover:border-blue-300/30">
                             <div class="flex justify-center space-x-4">
                                 <img class="w-6 h-6"
-                                    src="https://tailus.io/sources/blocks/tech-startup/preview/images/zoom.png"
+                                    src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg"
                                     alt="chat logo" loading="lazy" width="128" height="128">
-                                <span class="hidden font-medium md:block dark:text-white">Zoom</span>
+                                <span class="hidden font-medium md:block dark:text-white">Facebook</span>
                             </div>
                         </a>
                     </div>
@@ -180,53 +180,61 @@
                     </div>
                 </div>
             </div>
+
+            <section id="#" class="pt-36 pb-32 dark:bg-gray-900">
+                <div class="xl:container">
+                    <div class="w-full px-4">
+                        <div class="max-w-xl mx-auto text-center mb-16">
+                            <h4 class="font-semibold text-lg text-cyan-400 mb-2">Blog</h4>
+                            <h2 class="font-bold text-dark text-3xl mb-4 sm:text-4xl lg:text-5xl text-neutral-50">Tulisan Terkini</h2>
+                            <p class="font-medium text-md text-violet-200 md:text-lg">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum incidunt ullam necessitatibus.</p>
+                        </div>
+                    </div>
+        
+                    <div class="flex flex-wrap">
+                        <div class="w-full px-6 lg:w-1/3 xl:w-1/3">
+                            <div class="bg-gray-800 rounded-xl shadow-lg overflow-hidden mb-10">
+                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg" alt="programming" class="w-full" />
+                                <div class="py-8 px-6">
+                                    <h3>
+                                        <a href="#" class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Tips Belajar Programming</a>
+                                        </h3>
+                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi repellendus harum consequatur. Mollitia, cum. Minima?</p>
+                                    <a class="text-sky-600 outline-1" href="#">Baca Selengkapnya</a>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
+                            <div class="bg-gray-800 rounded-xl shadow-lg overflow-hidden mb-10">
+                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg" alt="programming" class="w-full" />
+                                <div class="py-8 px-6">
+                                    <h3>
+                                        <a href="#" class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Tips Belajar Programming</a>
+                                        </h3>
+                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi repellendus harum consequatur. Mollitia, cum. Minima?</p>
+                                    <a class="text-sky-600 outline-1" href="#">Baca Selengkapnya</a>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
+                            <div class="bg-gray-800 rounded-xl shadow-lg overflow-hidden mb-10">
+                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg" alt="programming" class="w-full" />
+                                <div class="py-8 px-6">
+                                    <h3>
+                                        <a href="#" class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Tips Belajar Programming</a>
+                                        </h3>
+                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi repellendus harum consequatur. Mollitia, cum. Minima?</p>
+                                    <a class="text-sky-600 outline-1" href="#">Baca Selengkapnya</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </div>
-
-    <div class="py-32">
-        <div data-aos="fade-up" class="antialiased mt-24">
-            <div class="text-center text-white text-4xl font-semibold">
-                <h2>Coba masuk aja</h2>
-            </div>
-        </div>
-
-    </div>
-    <div class="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
-        <div class="max-w-2xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900 dark:text-gray-100">
-                    <h1 class=" font-semibold text-2xl text-cyan-500">Tentang Saya</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed libero quos, minima earum maiores
-                        modi magni iure, veniam exercitationem, autem reprehenderit ipsam mollitia. Consectetur,
-                        voluptatibus!</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="max-w-2xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900 dark:text-gray-100">
-                    <h1 class="font-semibold text-2xl text-cyan-500">Tentang Saya</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed libero quos, minima earum maiores
-                        modi magni iure, veniam exercitationem, autem reprehenderit ipsam mollitia. Consectetur,
-                        voluptatibus!</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="max-w-2xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900 dark:text-gray-100">
-                    <h1 class="font-semibold text-2xl text-cyan-500">Tentang Saya</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed libero quos, minima earum maiores
-                        modi magni iure, veniam exercitationem, autem reprehenderit ipsam mollitia. Consectetur,
-                        voluptatibus!</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
         AOS.init();
