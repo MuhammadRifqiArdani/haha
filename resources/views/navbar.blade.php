@@ -19,7 +19,7 @@
     <style>
         body {
             font-family: Urbanist, sans-serif;
-            @apply bg-white dark: bg-gray-900
+            @apply bg-white dark:bg-gray-900
         }
 
         .navbar-active .hamburger div:first-child {
@@ -31,7 +31,7 @@
         }
 
         .navbar-active div:first-child div:first-child div:last-child {
-            @apply block lg: flex
+            @apply block lg:flex
         }
     </style>
     @vite('resources/css/app.css')
