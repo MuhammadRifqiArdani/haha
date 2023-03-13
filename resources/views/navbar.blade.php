@@ -75,9 +75,9 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#"
+                                    <a href="#project"
                                         class="block md:px-4 transition hover:text-primary dark:hover:text-primaryLight">
-                                        <span>Services</span>
+                                        <span>Project</span>
                                     </a>
                                 </li>
                                 <li>
@@ -91,7 +91,7 @@
 
                         <div
                             class="w-full space-y-2 border-primary/10 dark:border-gray-700 flex flex-col -ml-1 sm:flex-row lg:space-y-0 md:w-max lg:border-l">
-                            <a href="#"
+                            <a href="/login/"
                                 class="relative flex h-9 ml-auto items-center justify-center sm:px-6 before:absolute before:inset-0 before:rounded-full focus:before:bg-sky-600/10 dark:focus:before:bg-sky-400/10 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
                                 <span
                                     class="relative text-sm font-semibold text-primary text-white dark:text-primaryLight">Sign
@@ -110,7 +110,7 @@
 
     <div class="bg-white relative pt-40 pb-20 lg:pt-44 dark:bg-gray-900">
         <div class="relative xl:container m-auto px-6 md:px-12 lg:px-6">
-            <h1 id="contact" data-aos="fade-right" data-aos-duration="2000"
+            <h1 id="#" data-aos="fade-right" data-aos-duration="2000"
                 class="sm:mx-auto sm:w-10/12 md:w-2/3 font-black text-blue-900 text-2xl text-center sm:text-3xl md:text-4xl lg:w-auto lg:text-left xl:text-5xl dark:text-white">
                 Hallo, Perkenalkan Saya <br class="lg:block hidden"> <span
                     class="relative text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300 text-4xl">Rifqi
@@ -175,7 +175,7 @@
                         <div aria-hidden="true"
                             class="absolute scale-75 md:scale-110 inset-0 m-auto w-full h-full md:w-96 md:h-96 rounded-full rotate-45 bg-gradient-to-r from-sky-500 to-cyan-300 blur-2xl">
                         </div>
-                        <img src="image/tom.png" class="relative w-auto" alt="" loading="lazy"
+                        <img src="image/Earth.png" class="relative w-auto ml-28" alt="" loading="lazy"
                             width="320" height="280">
                     </div>
                 </div>
@@ -183,56 +183,186 @@
 
             <section id="#" class="pt-36 pb-32 dark:bg-gray-900">
                 <div class="xl:container">
-                    <div class="w-full px-4">
-                        <div class="max-w-xl mx-auto text-center mb-16">
-                            <h4 class="font-semibold text-lg text-cyan-400 mb-2">Blog</h4>
-                            <h2 class="font-bold text-dark text-3xl mb-4 sm:text-4xl lg:text-5xl text-neutral-50">Tulisan Terkini</h2>
-                            <p class="font-medium text-md text-violet-200 md:text-lg">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum incidunt ullam necessitatibus.</p>
+                    <div class="w-full px-4 py-48">
+                        <div class="max-w-xl mx-auto text-center mt-40">
+                            <h2 data-aos="fade-right" data-aos-duration="2000"
+                                class="font-bold text-dark text-3xl mb-4 sm:text-4xl lg:text-5xl text-neutral-50">List Project</h2>
+                            <p data-aos="fade-left" data-aos-duration="2000"
+                                class="font-medium text-md text-violet-200 md:text-lg">Lorem ipsum dolor sit amet
+                                consectetur, adipisicing elit. Cum incidunt ullam necessitatibus.</p>
                         </div>
                     </div>
-        
-                    <div class="flex flex-wrap">
-                        <div class="w-full px-6 lg:w-1/3 xl:w-1/3">
+
+                    <div id="project" class="flex flex-wrap">
+                        <div class="w-full px-4 lg:w-1/3 xl:w-1/3">
                             <div class="bg-gray-800 rounded-xl shadow-lg overflow-hidden mb-10">
-                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg" alt="programming" class="w-full" />
+                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg"
+                                    alt="programming" class="w-full" />
                                 <div class="py-8 px-6">
                                     <h3>
-                                        <a href="#" class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Tips Belajar Programming</a>
-                                        </h3>
-                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi repellendus harum consequatur. Mollitia, cum. Minima?</p>
-                                    <a class="text-sky-600 outline-1" href="#">Baca Selengkapnya</a>
+                                        <a href="#"
+                                            class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Project
+                                            Beta</a>
+                                    </h3>
+                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet
+                                        consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi
+                                        repellendus harum consequatur. Mollitia, cum. Minima?</p>
+                                    <a class="text-sky-600 outline-1 hover:underline" href="#">Baca Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
-        
+
                         <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
                             <div class="bg-gray-800 rounded-xl shadow-lg overflow-hidden mb-10">
-                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg" alt="programming" class="w-full" />
+                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg"
+                                    alt="programming" class="w-full" />
                                 <div class="py-8 px-6">
                                     <h3>
-                                        <a href="#" class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Tips Belajar Programming</a>
-                                        </h3>
-                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi repellendus harum consequatur. Mollitia, cum. Minima?</p>
-                                    <a class="text-sky-600 outline-1" href="#">Baca Selengkapnya</a>
+                                        <a href="#"
+                                            class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Project
+                                            Beta</a>
+                                    </h3>
+                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet
+                                        consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi
+                                        repellendus harum consequatur. Mollitia, cum. Minima?</p>
+                                    <a class="text-sky-600 outline-1 hover:underline" href="#">Baca Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
-        
+
                         <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
                             <div class="bg-gray-800 rounded-xl shadow-lg overflow-hidden mb-10">
-                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg" alt="programming" class="w-full" />
+                                <img src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg"
+                                    alt="programming" class="w-full" />
                                 <div class="py-8 px-6">
                                     <h3>
-                                        <a href="#" class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Tips Belajar Programming</a>
-                                        </h3>
-                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi repellendus harum consequatur. Mollitia, cum. Minima?</p>
-                                    <a class="text-sky-600 outline-1" href="#">Baca Selengkapnya</a>
+                                        <a href="#"
+                                            class="block mb-3 font-semibold text-xl text-white hover:text-cyan-400 truncate">Project
+                                            Beta</a>
+                                    </h3>
+                                    <p class="font-medium text-base text-gray-400 mb-6">Lorem ipsum dolor sit amet
+                                        consectetur adipisicing elit. Soluta, consectetur quaerat dolorum quos quasi
+                                        repellendus harum consequatur. Mollitia, cum. Minima?</p>
+                                    <a class="text-sky-600 outline-1 hover:underline" href="#">Baca Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
+
+            <div class="py-2 w-full">
+                <div class="text-center font-semibold text-cyan-300 py-5 text-2xl">view my location from the map</div>
+                
+                <iframe data-aos="fade-up" data-aos-duration="2000" class="rounded-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d252760.85553731595!2d111.49477219804889!3d-8.163569698459442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e791ad33bad6389%3A0x19f173f90f85d9be!2sTrenggalek%2C%20Kabupaten%20Trenggalek%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1678435058712!5m2!1sid!2sid" width="1225" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+
+            <div id="contact" class="bg-gray-900 py-32">
+                <div class="text-center text-white text-2">
+                    <h1>Kritik & Saran</h1>
+                </div>
+                <div class="container mx-auto my-4 px-4 lg:px-20">
+                    <div  class="w-full">
+                        <div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
+                            <input
+                                class="w-full bg-gray-600 text-white mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+                                type="text" placeholder="First Name*" />
+                            <input
+                                class="w-full bg-gray-600 text-white mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+                                type="text" placeholder="Last Name*" />
+                            <input
+                                class="w-full bg-gray-600 text-white mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+                                type="email" placeholder="Email*" />
+                            <input
+                                class="w-full bg-gray-600 text-white mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+                                type="number" placeholder="Phone*" />
+                        </div>
+                        <div class="my-4">
+                            <textarea placeholder="Message*"
+                                class="w-full h-32 bg-gray-600 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"></textarea>
+                        </div>
+                        <div class="my-2 w-1/2 lg:w-1/4">
+                            <button
+                                class="uppercase text-sm font-bold tracking-wide bg-blue-900 text-gray-100 p-3 rounded-lg w-full 
+                                  focus:outline-none focus:shadow-outline">
+                                Send Message
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <section class="border-t border-b border-gray-200 dark:border-gray-700 py-8">
+                <div class="lg:mx-auto lg:container px-4 xl:px-12 2xl:px-4">
+                    <div class="lg:flex">
+                        <div class="w-full lg:w-1/2 mb-16 lg:mb-0 flex">
+                            <div class="w-full lg:-1/2 px-6 lg:flex items-end justify-end">
+                                <ul>
+                                    <li id="#">
+                                        <a class=" text-lg md:text-base leading-none text-white hover:text-red-600" href="#">Components</a>    
+                                    </li>
+
+                                    <li id="#" class="mt-6">
+                                        <a class=" text-lg md:text-base leading-none text-white hover:text-red-600" href="#">Templates</a>    
+                                    </li>
+
+                                    <li id="#" class="mt-6">
+                                        <a class=" text-lg md:text-base leading-none text-white hover:text-red-600" href="#">Pricing</a>    
+                                    </li>
+
+                                    <li id="#" class="mt-6">
+                                        <a class=" text-lg md:text-base leading-none text-white hover:text-red-600" href="#">FAQ</a>    
+                                    </li>
+
+                                    <li id="#" class="mt-6">
+                                        <a class=" text-lg md:text-base leading-none text-white hover:text-red-600" href="#">Document</a>    
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="w-full lg:w-1/2 px-6 lg:flex items-start justify-center">
+                                <ul>
+                                    <li id="#">
+                                        <a class="text-sm md:text-base leading-none text-white hover:text-red-600" href="#">Contact us</a>
+                                    </li>
+                                    
+                                    <li id="#" class="mt-6">
+                                        <a class="text-sm md:text-base leading-none text-white hover:text-red-600" href="#">Blog</a>
+                                    </li>
+
+                                    <li id="#" class="mt-6">
+                                        <a class="text-sm md:text-base leading-none text-white hover:text-red-600" href="#">Change Log</a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+
+
+                        <div class="w-full lg:w-1/2 flex">
+                            <div class="w-full lg:w-1/2 px-6 flex flex-col lg:items-center justify-between">
+                                <ul>
+                                    <li id="#">
+                                        <a href="/terms-and-conditions#privacyPolicy" class="text-sm md:text-base leading-none text-white hover:text-red-600">Privacy policy</a>
+                                    </li>
+
+                                    <li id="#" class="mt-6">
+                                        <a href="/terms-and-conditions#privacyPolicy" class="text-sm md:text-base leading-none text-white hover:text-red-600">Terms of Service</a>
+                                    </li>
+
+                                    <li id="#" class="mt-6">
+                                        <a href="/terms-and-conditions#privacyPolicy" class="text-sm md:text-base leading-none text-white hover:text-red-600">Become An affiliate</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="py-12">
+                <p class="text-white text-center font-semibold">© 2023 web Ngawur. All rights reserved.</p>
+            </div>
         </div>
     </div>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>

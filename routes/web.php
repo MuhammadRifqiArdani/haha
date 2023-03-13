@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AboutmeController;
+use App\Http\Controllers\LoginController;
 use App\Http\Controllers\NavbarController;
 use Illuminate\Support\Facades\Route;
 
@@ -21,3 +22,4 @@ Route::get('/', function () {
 
 Route::resource('navbar', NavbarController::class);
 Route::resource('aboutme', AboutmeController::class);
+Route::resource('login', LoginController::class);
